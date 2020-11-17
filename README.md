@@ -1,2 +1,4 @@
 # ramandsingh.github.io
-test website
+
+This is my attempt to host a personal page on github.io 
+
